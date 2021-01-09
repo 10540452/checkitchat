@@ -59,9 +59,5 @@ def get_bot_response():
         return str("Wrong input.")
 
 
-def getApp():
-    return app
-
-
 if __name__ == "__main__":
     botApp.run()
